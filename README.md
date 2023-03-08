@@ -1,4 +1,5 @@
 # Simplified ATM.
+This project was done ine Programming 1 in Oulu Open University </br>
 Basic functions of ATM machine. </br>
 *Deposit of cash </br>
 *Withdrawal of cash </br>
